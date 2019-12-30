@@ -1,1 +1,1 @@
-# Network-Graph-of-Related-Music-Artists
+# Network Graph of Related Music Artists
